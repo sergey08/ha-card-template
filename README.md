@@ -1,5 +1,7 @@
 # HA Card Template
 
+![Illustrative preview of the example card](docs/preview.svg)
+
 Reusable starter for Home Assistant Lovelace custom cards. **This repository is a development template, not a finished card for the HACS catalog.**
 
 ## Features
