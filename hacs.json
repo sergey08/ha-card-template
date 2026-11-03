@@ -1,0 +1,6 @@
+{
+  "name": "HA Card Template",
+  "content_in_root": true,
+  "filename": "ha-card-template.js",
+  "render_readme": true
+}
